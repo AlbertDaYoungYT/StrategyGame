@@ -1,0 +1,4 @@
+resources/
+logs/
+data/
+__pycache__/
